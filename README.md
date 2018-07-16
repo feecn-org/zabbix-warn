@@ -1,0 +1,2 @@
+# zabbix-warn
+zabbix-warn
